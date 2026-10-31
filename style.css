@@ -238,7 +238,6 @@ nav a:hover {
 
     object-fit: cover;
 
-    filter: grayscale(100%);
 }
 
 .terminal {
