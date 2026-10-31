@@ -231,15 +231,11 @@ nav a:hover {
 
 .image-frame img {
     display: block;
-
     width: 100%;
-
-    aspect-ratio: 4 / 5;
-
-    object-fit: cover;
-
+    height: auto;
+    object-fit: contain;
+    filter: none;
 }
-
 .terminal {
     padding: 85px 30px 30px;
 
